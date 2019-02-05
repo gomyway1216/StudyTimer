@@ -3,29 +3,27 @@
 
 Function
 ------------
-You can measure how much time you spend for each activities and based on the activity you will get the reward.
-You can see the detailed log for each day and see how much money you make for each day in graph.
+You can measure how much time you spend for each activities and based on the activity you will get the reward. <br />
+You can see the detailed log for each day and see how much money you make for each day in graph. <br />
+This is using SQL
 
 Motivation
 ------------
-I found that it is sometimes difficult to motivate myself to the tasks if they are so boring like homework??
-I love money and I found that I am so motivated if I have some achievement while I am doing boring stuff. 
-I found one of the good motivation is money! It is a virtual money, but I am going to add more functions.
+I found that it is sometimes difficult to motivate myself to the tasks if they are so boring like homework?? <br />
+I love money and I found that I am so motivated if I have some achievement while I am doing boring stuff.  <br />
+I found one of the good motivation is money! It is a virtual money, but I am going to add more functions. <br />
 
 
 Purpose and fixes
 --------------
 
-I am going to add more functions! So please be patient.
+I am going to add more functions! So please be patient. <br />
 
 Achievement 
 ---------------
 
-1. Learned how to make AI that choose optimal movement. 
-2. Became confortable in Android development
-3. Learned a lot about how to make a good evaluation function after many trials.
-4. Learned how to debug (This project required a lot of debugging!)
-5. First game project to publish! (I like board games in general so in the future I may imprement more complex games.)
+1. Learned complicated Object Oriented Programming.  <br />
+2. Learned how to save datas from SQL database efficiently by avoiding unnecessary Query request. <br />
 
 
 
