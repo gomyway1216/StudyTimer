@@ -2,17 +2,28 @@
 ==============================
 
 Function
-------------
-You can measure how much time you spend for each activities and based on the activity you will get the reward. <br />
-You can see the detailed log for each day and see how much money you make for each day in graph. <br />
+You can measure how much time you spend on each activity and based on the activity you will get the reward. 
+You can see the detailed log for each day and see how much money you make for each day in the graph. 
 This is using SQL
 
 Motivation
-------------
-I found that it is sometimes difficult to motivate myself to the tasks if they are so boring like homework?? <br />
-I love money and I found that I am so motivated if I have some achievement while I am doing boring stuff.  <br />
-I found one of the good motivation is money! It is a virtual money, but I am going to add more functions. <br />
+I found that it is sometimes difficult to motivate myself to the tasks if they are so boring like homework?? 
+I love money and I found that I am so motivated if I have some achievement while I am doing boring stuff. 
+I found one of the good motivation is money! It is virtual money, but I am going to add more functions. 
 
+Function
+------------
+
+You can measure how much time you spend on each activity and based on the activity you will get the reward. <br />
+You can see the detailed log for each day and see how much money you make for each day in the graph. <br />
+This is using SQL.
+
+Motivation
+------------
+
+I found that it is sometimes difficult to motivate myself to the tasks if they are so boring like homework??  <br />
+I love money and I found that I am so motivated if I have some achievement while I am doing boring stuff.  <br />
+I found one of the good motivation is money! It is virtual money, but I am going to add more functions.  <br />
 
 Purpose and fixes
 --------------
